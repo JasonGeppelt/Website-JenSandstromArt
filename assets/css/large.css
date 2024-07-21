@@ -1,0 +1,13 @@
+/* Styles for large screens (desktops) */
+@media (min-width: 768px) {
+    body {
+        font-size: 18px;
+    }
+
+    .container {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    /* Add more large screen styles here */
+}
