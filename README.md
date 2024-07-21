@@ -4,14 +4,6 @@
   <p>A website to showcase the beautiful artwork by Jen Sandstrom.</p>
 </div>
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-
 ## Getting Started
 
 ### Prerequisites
@@ -48,6 +40,6 @@ This project showcases the artwork of Jen Sandstrom. Navigate through different 
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your_email@example.com
+Jason Geppelt  -  jgeppelt.dev@gmail.com
 
-Project Link: [https://github.com/your-username/your-project](https://github.com/ur-username/your-project)
+Project Link: [https://github.com/JasonGeppelt/Website-JenSandstromArt](https://github.com/JasonGeppelt/Website-JenSandstromArt)
